@@ -8,6 +8,7 @@ As an assignment I was told to make a clinic database. This database stores
 It has data inserted to the tables already to show you an example when executed.
 
 =======================================================================
+
 It shows you:
 
 - Total revenue collected
